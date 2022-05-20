@@ -1,6 +1,6 @@
 # Assesment1
 ## The fallowing Output is as follows:
-##Download the fallowing assignment1.exe file and customerdata.txt dataset file.
+## Download the fallowing assignment1.exe file and customerdata.txt dataset file.
 
 Execute the assignment1.exe file to get following output in output.txt file.
 
