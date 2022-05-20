@@ -1,6 +1,6 @@
 # Assesment1
 ## The fallowing Output is as follows:
-Download the fallowing :
+Download the fallowing assignment1.exe and :
 1. Total number of orders site received are 160 /-
 
 2. Total amount of the orders is 28050 /-
